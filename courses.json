@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Ingliz tili",
+    "img": "https://img.freepik.com/premium-vector/english-language-learning-logo-icon-with-headphones-creative-english_41737-974.jpg",
+    "why": "Xalqaro muloqot, biznes va ta’lim uchun eng muhim til.",
+    "price": 600000,
+    "subject": "eng"
+  },
+  {
+    "id": 2,
+    "title": "Nemis tili",
+    "img": "https://as2.ftcdn.net/jpg/02/47/15/75/1000_F_247157521_xyKNfgtijKrFIjhRAexfwXueuNVyvaTj.jpg",
+    "why": "Yevropada o‘qish va ishlash uchun foydali.",
+    "price": 400000,
+    "subject": "ger"
+  },
+  {
+    "id": 3,
+    "title": "Xitoy tili",
+    "img": "https://www.china-admissions.com/wp-content/uploads/2020/11/learn-chinese-guide.png",
+    "why": "Xitoy bilan biznes yuritish va o‘qish imkoniyatlari uchun kerak.",
+    "price": 600000,
+    "subject": "chin"
+  },
+  {
+    "id": 4,
+    "title": "IT",
+    "img": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg",
+    "why": "Kelajak kasblari uchun zarur zamonaviy texnologiyalarni o‘rganish.",
+    "price": 800000,
+    "subject": "it"
+  },
+  {
+    "id": 5,
+    "title": "Robotics",
+    "img": "https://rootsaid.com/wp-content/uploads/2021/02/Starting-a-Career-in-Robotics.png",
+    "why": "Kelajak texnologiyalari va sun’iy intellekt asoslarini o‘rganish.",
+    "price": 700000,
+    "subject": "robo"
+  },
+  {
+    "id": 6,
+    "title": "Rus tili",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*HJiWusM09bNWdfY5ms_zeQ.png",
+    "why": "MDH davlatlarida o‘qish va ishlash imkoniyatlari uchun kerak.",
+    "price": 600000,
+    "subject": "ru"
+  }
+]
